@@ -1,0 +1,146 @@
+{
+  "title": "Pett Network",
+  "description": "Pett Token is a Binance Smart Chain Network-based solution, which connects pet care in blockchain-based tracking platform.",
+  "nav": {
+    "feature": "Feature",
+    "tokenomics": "Tokenomics",
+    "team": "Team",
+    "roadmap": "Roadmap"
+  },
+  "header": {
+    "title": "Pett Network - Pet Care Platform",
+    "description": "Pett Token is a Binance Smart Chain Network-based solution, which connects pet care in blockchain-based tracking platform.",
+    "whitepaper": {
+      "title": "Whitepaper",
+      "link": "https://pett.gitbook.io/pett-whitepaper/"
+    }
+  },
+  "feature": {
+    "title": "New standard in Pet Care Industry",
+    "description": "Platform of PETT Token will expand to all pet owners, service provider and producing facilities. We make effort to establishing global community.",
+    "feature1": {
+      "title": "Kindness",
+      "description": "PETT Foundation will support pet care centers that help to solve problems and support animals."
+    },
+    "feature2": {
+      "title": "Economical",
+      "description": "PETT Token will help pet owners as consumer to achieve appropriate information about the market."
+    },
+    "feature3": {
+      "title": "Partnerships",
+      "description": "PETT Token Foundation will expand affiliate and partnership through active MOU attempt."
+    },
+    "buy": {
+      "title": "Buy Pett",
+      "link": "https://www.lbank.info/exchange/pett/usdt/#alts"
+    }
+  },
+  "nft": {
+    "title": "PETT Metaverse Platform",
+    "description": "Own NFT for special holder benefit and get access to the PETT Platform, where users can experience a variety of content related to our lovely pets.",
+    "nft1": {
+        "title": "Digitalize your Pet"
+    },
+    "nft2": {
+        "title": "Purchase digital Goods"
+    },
+    "nft3": {
+        "title": "Order digital Gifts"
+    },
+    "nft4": {
+        "title": "Create digital Models"
+    }
+  },
+  "tokenomics": {
+    "title": "Tokenomics",
+    "description": "The amount of ecosystem circulation depends on the number of users, and the amount of ecosystem circulation is paid to users through staking."
+  },
+  "team": {
+    "title": "Team",
+    "description": "Our team consists of high-end experts, whose main aim is to create an innovative platform for Pet Care with distributed infrastructure and partnerships."
+  },
+  "roadmap": {
+    "title": "Roadmap",
+    "description": "Our core goal is to enable PETT Token to maintain its purchasing power and scale it to make a Pet Care Industry.",
+    "roadmap1": {
+      "title": "Q3 2022",
+      "point1": "· PETT Network Token Release",
+      "point2": "· PETT Network Webpage Listing",
+      "point3": "· CEX Global Exchange Listing"
+    },
+    "roadmap2": {
+        "title": "Q4 2022",
+        "point1": "· PETT Network Swap Solution",
+        "point2": "· PETT Network Bridge Solution",
+        "point3": "· DEX Global Exchange Listing"
+    },
+    "roadmap3": {
+        "title": "Q1 2023",
+        "point1": "· Development PETT Platform",
+        "point2": "· PETT Staking Service Launched",
+        "point3": "· Scaling PETT to other networks"
+    },
+    "roadmap4": {
+        "title": "Q2 2023",
+        "point1": "· PETT Network Platform Concept",
+        "point2": "· PETT Network Wallet Solution",
+        "point3": "· CEX Global Exchange Listing"
+    }
+  },
+  "footer": {
+    "learn": {
+      "title": "Learn more",
+      "about": {
+        "title": "About"
+      },
+      "tokenomics": {
+        "title": "Tokenomics"
+      },
+      "team": {
+        "title": "Team"
+      }
+    },
+    "legal": {
+      "title": "Legal",
+      "privacy": {
+        "title": "Privacy Policy"
+      },
+      "terms": {
+        "title": "Terms of Use"
+      },
+      "sitemap": {
+        "title": "Site Map"
+      }
+    },
+    "involved": {
+      "title": "Get Involved",
+      "whitepaper": {
+        "title": "Whitepaper",
+        "link": "https://pett.gitbook.io/pett-whitepaper/"
+      },
+      "github": {
+        "title": "Github",
+        "link": "https://github.com/"
+      },
+      "explorer": {
+        "title": "Explorer",
+        "link": "https://bscscan.com/token/0x474ab5a9103d5cd91cbaffc43f1842c25915dbec/"
+      }
+    },
+    "connect": {
+      "title": "Connect",
+      "telegram": {
+        "title": "Telegram",
+        "link": "https://t.me/PettNetworks/"
+      },
+      "medium": {
+        "title": "Medium",
+        "link": "https://medium.com/@PettNetwork/"
+      },
+      "twitter": {
+        "title": "Twitter",
+        "link": "https://twitter.com/PettNetwork/"
+      }
+    }
+  }
+}
