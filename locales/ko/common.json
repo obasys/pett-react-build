@@ -88,6 +88,7 @@
     }
   },
   "footer": {
+    "phone": "070-8098-1944",
     "learn": {
       "title": "더 알아보기",
       "about": {
@@ -129,6 +130,7 @@
     },
     "connect": {
       "title": "연결하다",
+      "phone": "070-8098-1944",
       "telegram": {
         "title": "Telegram",
         "link": "https://t.me/PettNetworks/"
